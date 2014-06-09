@@ -283,7 +283,7 @@ on post-fs-data
     #setprop vold.post_fs_data_done 1
 
 # Include extra init file
-    import /init.liquid.rc
+    import /init.centauri.rc
 
 on boot
 # basic network init
